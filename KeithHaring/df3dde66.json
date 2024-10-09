@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "28f02ce9"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Surrounding the cigarette pack are energetic, radiant lines, which might symbolize the spread of influence or addiction. These lines often suggest movement and expansion, as if cigarette's harmful effects are vibrating outward, respresenting the far-reaching consequences of smoking.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif.kmska.be:8183/iiif/2/public@842.tif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:216.62257385253906,2854.966552734375,275.4406280517578,262.05126953125"
+      },
+      "id": "df3dde66"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "05e62e59"
   }
 ]
