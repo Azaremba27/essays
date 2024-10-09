@@ -4,7 +4,7 @@ This essay explores how Keith Haring used vibrant and accessible art to convey p
 
 .ve-media https://data.artmuseum.princeton.edu/iiif/objects/41554
 
-#Section Title
+#LUCKY STRIKE IV (1987)
 Keith Haring's Lucky Strike (1987), part of the Lucky Strike Portfolio, is filled with symbols that address both personal and societal themes. The cigarettes in the piece represent addiction, pleasure, and the fleeting nature of life. Haring often explored the tension between enjoyment and self-destruction in his work, and smoking captures this duality. The dynamic figures in the artwork, a recurring feature in Haring's style, convey a sense of energy and movement. Their interwoven poses suggest connection and community but also could reflect the chaos and struggles of urban life.
 
 .ve-image https://iiif.kmska.be/iiif/3/842/manifest.json
