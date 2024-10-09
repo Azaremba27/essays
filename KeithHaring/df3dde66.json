@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "test 1",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif.kmska.be:8183/iiif/2/public@842.tif",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:893.7474975585938,2548.83203125,973.6060180664062,659.90966796875"
+      },
+      "id": "df3dde66"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "8f1288c5"
+  }
+]
